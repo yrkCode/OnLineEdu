@@ -1,0 +1,2 @@
+# OnLineEdu 在线教育系统
+后端使用SpringBoot+MybatisPlus+SpringCloud+SpringSecurity+Redis进行微服务架构,使用Feign、GateWay、Hystrix  的SpringCloud微服务组件，以及阿里巴巴的Nacos等组件搭建了项目的基础环境。前端使用Vue、ElementUI搭建前端页面。
